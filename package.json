@@ -1,0 +1,23 @@
+{
+  "name": "tga-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpzomtrrfrt/tga-loader.git"
+  },
+  "author": "vpzomtrrfrt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vpzomtrrfrt/tga-loader/issues"
+  },
+  "homepage": "https://github.com/vpzomtrrfrt/tga-loader#readme",
+  "dependencies": {
+    "pngjs": "^3.3.0",
+    "tga": "^1.0.2"
+  }
+}
