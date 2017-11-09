@@ -2,6 +2,7 @@ const TGA = require('tga');
 const PNG = require('pngjs').PNG;
 
 module.exports = function(source) {
+	this.resourcePath += ".png";
 	const callback = this.async();
 
 	const tga = new TGA(source);
